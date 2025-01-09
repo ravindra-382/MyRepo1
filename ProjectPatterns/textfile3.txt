@@ -1,0 +1,3 @@
+ Hello This is file operations practice.
+ welcome to java file operations.
+ Thank you.
